@@ -1,1 +1,1 @@
-My own developer portfolio using Tailwind CSS
+Software Developer profile
